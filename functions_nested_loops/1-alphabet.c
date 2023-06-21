@@ -2,16 +2,10 @@
 #include <unistd.h>
 
 /**
- * main - Entry point
+ * print_alphabet - Entry point
  *
  * Return: Always 0 (Sucess)
  */
-
-int main(void)
-{
-	print_alphabet();
-	return (0);
-}
 
 void print_alphabet(void)
 {
